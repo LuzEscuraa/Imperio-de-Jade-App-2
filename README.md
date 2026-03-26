@@ -1,5 +1,5 @@
 # Imperio-de-Jade-App-2
-Versão refeita do Imperio-de-Jade-app seguindo a arquitetura CRUD e uso de API restfu
+Versão refeita do Imperio-de-Jade-app seguindo a arquitetura CRUD e uso de API restful
 
 Aplicação back-end criada para realizar diversas funções que facilitam a vida do mestre de Rpg do sistema Tormenta o Império de Jade.
 
