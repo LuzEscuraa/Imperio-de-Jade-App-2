@@ -48,6 +48,6 @@ O projeto inclui três funcionalidades principais:
 
 
 ## 📌 Observações
-O POST exige que todos os campos sejam preenchidos.
-O PUT permite atualizar campos individualmente, podendo deixar alguns em branco.
-O projeto é ideal para mestres de RPG que desejam automatizar cálculos e referências rápidas.
+- O POST exige que todos os campos sejam preenchidos.
+- O PUT permite atualizar campos individualmente, podendo deixar alguns em branco.
+- O projeto é ideal para mestres de RPG que desejam automatizar cálculos e referências rápidas.
